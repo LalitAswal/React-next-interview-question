@@ -26,6 +26,9 @@ You can directly open and explore the following files:
 - 📓 **[Web & CSS Questions](./web.md)**  
   HTML, browser fundamentals, CSS layout, Flexbox, Grid, and responsive design.
 
+- 🧠 **[React Machine Coding Round](./Machine-coding-round.md)**  
+  Most frequently asked React machine coding questions (2025), focused on real-world UI problems and logic.  
+
 ---
 
 ## 🎯 How to Use This Repository
